@@ -7,7 +7,7 @@ with source_data as (
     select null as id
 
 )
-
+break
 select *
 from source_data
 
