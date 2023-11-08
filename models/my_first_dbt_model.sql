@@ -2,12 +2,12 @@
 
 with source_data as (
 
-    select 4 as id
+    select 10 as id
     union all
     select null as id
 
 )
-
+khjgk
 select *
 from source_data
 
