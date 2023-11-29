@@ -5,7 +5,7 @@ with source_data as (
     select 11 as id
     union all
     select null as id
-
+aaaaaaaaa
 )
 
 select *
