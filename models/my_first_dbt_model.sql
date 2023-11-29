@@ -5,7 +5,7 @@ with source_data as (
     select 10 as id
     union all
     select null as id
-
+aaaa
 )
 
 select *
@@ -14,5 +14,5 @@ from source_data
 /*
     Uncomment the line below to remove records with null `id` values
 */
-j
+
 where id is not null
