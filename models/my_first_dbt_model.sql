@@ -2,7 +2,7 @@
 
 with source_data as (
 
-    select 15 as id
+    selecta 1a as id
     union all
     select null as id
 
